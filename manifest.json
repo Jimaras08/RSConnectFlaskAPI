@@ -6,10 +6,10 @@
   },
   "locale": "de_DE.cp1252",
   "python": {
-    "version": "3.7.9",
+    "version": "3.8.6",
     "package_manager": {
       "name": "pip",
-      "version": "21.3",
+      "version": "20.2.1",
       "package_file": "requirements.txt"
     }
   },
