@@ -53,4 +53,4 @@ if __name__ == "__main__":
 # http://run-python-flask-api-in-docker.westeurope.azurecontainer.io/getEntity?address=Warschauer%20Stra%C3%9Fe%2076
 
 # RSC
-# https://rsconnect.redbull.com/content/515/getEntity?address=Warschauer%20Stra%C3%9Fe%2076
+# 
