@@ -48,3 +48,9 @@ if __name__ == "__main__":
 
 # python 04_Azure_Docker_Flask.py
 # http://127.0.0.1:80/getEntity?address=Warschauer%20Stra%C3%9Fe%2076
+
+# ACR/ACI
+# http://run-python-flask-api-in-docker.westeurope.azurecontainer.io/getEntity?address=Warschauer%20Stra%C3%9Fe%2076
+
+# RSC
+# https://rsconnect.redbull.com/content/515/getEntity?address=Warschauer%20Stra%C3%9Fe%2076
